@@ -1,0 +1,39 @@
+table{
+    background-color: black;
+}
+.image-head{
+    align-self: center;
+}
+th{
+    font-size: 150%;
+    font-weight: 5s00;
+    padding: 20px;
+    background-color: orange;
+    color: black;
+}
+tr{
+    color: white;
+}
+picture{
+    color: red
+}
+body{
+    background-color: transparent;
+}
+.candyImage{
+    background-color: transparent;
+}
+.active-row{
+    background-color: transparent;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: orange;
+}
+html{
+    background-color: purple;
+    color: greenyellow;
+}
+
+td{
+    text-align: center;
+}
